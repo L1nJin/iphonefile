@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://nj01ct01.baidupcs.com/file/781356b582e17a328cfcca0bfd88f76d?bkt=p3-000098d54252b73e9232936825d32af9f46c&fid=3903877255-250528-243675814191805&time=1520410664&sign=FDTAXGERLQBHSKa-DCb740ccc5511e5e8fedcff06b081203-N%2BHMHZ%2FqAvBgCVyvA23Go%2FpFdx4%3D&to=63&size=20294875&sta_dx=20294875&sta_cs=1&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2Cguangdong%2Cct&vuk=3903877255&iv=0&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=000098d54252b73e9232936825d32af9f46c&sl=79364174&expires=8h&rt=pr&r=546734121&mlogid=1523281154354749188&vbdid=2133372111&fin=11673355_iphone_00.00.0083_000_41296_0.ipa&fn=11673355_iphone_00.00.0083_000_41296_0.ipa&rtype=1&dp-logid=1523281154354749188&dp-callid=0.1.1&hps=1&tsl=100&csl=100&csign=jEFTs7lMSbV3AAREljvWKvJitYs%3D&so=0&ut=6&uter=4&serv=0&uc=4105674886&ic=1538947656&ti=a85fe7383ca78f8b9e9184d043ca9585ff4e85c5d2905b5f&by=themis</string>
+					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/11673355_iphone_00.00.0083_000_41296_0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://nbct01.baidupcs.com/file/f8b212150f7abdc5d103931e24c17bca?bkt=p3-1400f8b212150f7abdc5d103931e24c17bca9bdd00fd000000001d49&fid=3903877255-250528-902006633891316&time=1520410755&sign=FDTAXGERLQBHSKa-DCb740ccc5511e5e8fedcff06b081203-8g2IRktPlIm88xQx%2B93tXygoRdk%3D&to=67&size=7497&sta_dx=7497&sta_cs=0&sta_ft=png&sta_ct=0&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2Cguangdong%2Cct&vuk=3903877255&iv=0&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400f8b212150f7abdc5d103931e24c17bca9bdd00fd000000001d49&sl=79364174&expires=8h&rt=pr&r=358551856&mlogid=1523305672773078477&vbdid=2133372111&fin=appLogo.png&fn=appLogo.png&rtype=1&dp-logid=1523305672773078477&dp-callid=0.1.1&hps=1&tsl=100&csl=100&csign=jEFTs7lMSbV3AAREljvWKvJitYs%3D&so=0&ut=6&uter=4&serv=0&uc=4105674886&ic=1538947656&ti=8528c1f31d9c852823b5af12588ad267611ebe77bbca1526&by=themis</string>
+					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/appLogo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://nbct01.baidupcs.com/file/f8b212150f7abdc5d103931e24c17bca?bkt=p3-1400f8b212150f7abdc5d103931e24c17bca9bdd00fd000000001d49&fid=3903877255-250528-902006633891316&time=1520410755&sign=FDTAXGERLQBHSKa-DCb740ccc5511e5e8fedcff06b081203-8g2IRktPlIm88xQx%2B93tXygoRdk%3D&to=67&size=7497&sta_dx=7497&sta_cs=0&sta_ft=png&sta_ct=0&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2Cguangdong%2Cct&vuk=3903877255&iv=0&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400f8b212150f7abdc5d103931e24c17bca9bdd00fd000000001d49&sl=79364174&expires=8h&rt=pr&r=358551856&mlogid=1523305672773078477&vbdid=2133372111&fin=appLogo.png&fn=appLogo.png&rtype=1&dp-logid=1523305672773078477&dp-callid=0.1.1&hps=1&tsl=100&csl=100&csign=jEFTs7lMSbV3AAREljvWKvJitYs%3D&so=0&ut=6&uter=4&serv=0&uc=4105674886&ic=1538947656&ti=8528c1f31d9c852823b5af12588ad267611ebe77bbca1526&by=themis</string>
+					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/appLogo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
