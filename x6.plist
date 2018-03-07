@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/11673355_iphone_00.00.0083_000_41296_0.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/appLogo.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/appLogo.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
