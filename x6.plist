@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>  
-                <string>com.tianzhuan.zfbapp</string>  
+                <string>com.tianzhuan.zfbapp.ios8fix</string>  
                 <key>bundle-version</key>  
                 <string>00.00.0083</string>  
                 <key>kind</key>  
