@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/11673355_iphone_00.00.0067_000_9696_0.ipa</string>
+					<string>http://192.168.0.137/eventinfoweb/attachfile/11673355_iphone_00.00.0083_000_41296_0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/appLogo.png</string>
+					<string>http://192.168.0.137/eventinfoweb/attachfile/appLogo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.93.192.199:8000/eventinfoweb/attachfile/appLogo.png</string>
+					<string>http://192.168.0.137/eventinfoweb/attachfile/appLogo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
