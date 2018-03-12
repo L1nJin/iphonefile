@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.21.50.128/eventinfoweb/attachfile/CSR201803081135RLBWNM-resigned.ipa</string>
+					<string>http://172.21.50.128/eventinfoweb/attachfile/CSR201803120116ZOKFRD-resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>  
                 <string>com.tianzhuan.zfbapp</string>  
                 <key>bundle-version</key>  
-                <string>00.00.0087</string>  
+                <string>00.00.0089</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
